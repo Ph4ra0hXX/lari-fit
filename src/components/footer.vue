@@ -1,28 +1,29 @@
 <template>
   <div class="rodape">
     <br />
-    Terça a Domingo, das 18:00h as 23:00h<br />
+    Todos os Dias<br />
+    Manhã: 07:00h as 13:00h
     <br />
-    Rodoviária | Limoeiro do Norte-Ce<br />
+    Tarde: 15:00h as 20:00h<br />
     <br />
     <a
       href="https://www.instagram.com/larifitt_/"
       class="fa fa-lg fa-instagram"
     ></a>
-    <a href="https://www.instagram.com/larifitt_/">@19gastrobar</a>
+    <a href="https://www.instagram.com/larifitt_/">@larifitt_</a>
     <br />
     <br />
     <a
-      href="https://api.whatsapp.com/send?phone=88921635704"
+      href="https://api.whatsapp.com/send?phone=88921679493"
       class="fab fa-whatsapp"
     ></a>
-    <a href="https://api.whatsapp.com/send?phone=88921635704"
-      >(88) 9 2163-5704</a
+    <a href="https://api.whatsapp.com/send?phone=88921679493"
+      >(88) 9 2167-9493</a
     >
     <br />
     <br />
     Criado e desenvolvido por
-    <a id="nomeDev" href="https://www.instagram.com/wesleyj.dev/?hl=pt-br">
+    <a id="nomeDev" href="https://api.whatsapp.com/send?phone=88997542121">
       Wesley Jonatha
     </a>
     <br />
