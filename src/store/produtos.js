@@ -226,7 +226,7 @@ export const produtosStore = defineStore("produto", {
         {
           id: 15,
           nome: "DETOX, VERDE E ANTIOXIDANTE",
-          img: "7.png",
+          img: "9.png",
           descricao: "Sucos detox, verdes e antioxidantes.",
           url: "/detox-verde-antioxidante",
           diasSemana: [
@@ -396,7 +396,7 @@ export const produtosStore2 = defineStore("produto2", {
         {
           id: 15,
           nome: "DETOX, VERDE E ANTIOXIDANTE",
-          img: "7.png",
+          img: "9.png",
           descricao: "Sucos detox, verdes e antioxidantes.",
           url: "/detox-verde-antioxidante",
           diasSemana: [
