@@ -6,10 +6,10 @@
     Rodoviária | Limoeiro do Norte-Ce<br />
     <br />
     <a
-      href="https://www.instagram.com/19gastrobar/"
+      href="https://www.instagram.com/larifitt_/"
       class="fa fa-lg fa-instagram"
     ></a>
-    <a href="https://www.instagram.com/19gastrobar/">@19gastrobar</a>
+    <a href="https://www.instagram.com/larifitt_/">@19gastrobar</a>
     <br />
     <br />
     <a

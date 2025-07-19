@@ -242,7 +242,7 @@ export const produtosStore = defineStore("produto", {
         {
           id: 16,
           nome: "SHAKES PROTEICOS",
-          img: "7.png",
+          img: "10.png",
           descricao: "Shakes proteicos variados.",
           url: "/shakes-proteicos",
           diasSemana: [
@@ -412,7 +412,7 @@ export const produtosStore2 = defineStore("produto2", {
         {
           id: 16,
           nome: "SHAKES PROTEICOS",
-          img: "7.png",
+          img: "10.png",
           descricao: "Shakes proteicos variados.",
           url: "/shakes-proteicos",
           diasSemana: [
