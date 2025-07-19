@@ -43,7 +43,7 @@ export default {
 
     function copyToClipboard() {
       navigator.clipboard
-        .writeText("88999704015")
+        .writeText("Pix de teste")
         .then(() => {
           toast.success("Pix copiado!", {
             timeout: 2000,
@@ -595,7 +595,7 @@ export default {
 
           carrinho.pedidos = [];
 
-          window.location.href = `https://wa.me/5588921635704?text=${this.pedidoMontado}`;
+          window.location.href = `https://wa.me/5588997542121?text=${this.pedidoMontado}`;
         } else {
           toast.warning("✏️ Preencha todos os campos", {
             timeout: 2000,
@@ -634,7 +634,7 @@ export default {
 
           carrinho.pedidos = [];
 
-          window.location.href = `https://wa.me/5588921635704?text=${this.pedidoMontado}`;
+          window.location.href = `https://wa.me/5588997542121?text=${this.pedidoMontado}`;
         } else {
           toast.warning("✏️ Preencha todos os campos", {
             timeout: 2000,
@@ -830,7 +830,7 @@ export default {
           class="input-field"
         >
           <button id="butCopiarPix" @click="copyToClipboard">Copiar PIX</button>
-          <p id="beneficiario">Beneficiário: Mayara Vieira</p>
+          <p id="beneficiario">Beneficiário: Larissa Marjorie</p>
         </div>
         <div
           v-if="carrinho.dadosPessoais.formaDePagamento == 'Dinheiro'"
