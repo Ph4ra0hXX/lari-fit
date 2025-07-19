@@ -107,7 +107,7 @@ export default {
       <div class="paypal__subheader">
         <h1 class="paypal__username">Olá 👋</h1>
         <span class="paypal__help-text">
-          Você selecionou {{ carrinho.getTotalPedidos }} item!
+          Você selecionou {{ carrinho.getTotalPedidos }} item(s)!
         </span>
       </div>
     </div>

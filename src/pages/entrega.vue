@@ -258,6 +258,326 @@ export default {
         this.pedidoMontado += `\n${"-".repeat(30)}\n\n`;
       }
 
+      var dados7 = this.carrinho.lacup;
+      if (dados7.length > 0) {
+        const resultado7 = dados7
+          .map((categoria) => {
+            return Object.keys(categoria)
+              .map((chave) => {
+                const itensComQuantidade = categoria[chave].filter(
+                  (item) => item.quantidade > 0
+                );
+
+                if (itensComQuantidade.length > 0) {
+                  const categoriaFormatada = `${itensComQuantidade
+                    .map((item) => ` *${item.quantidade}x* ${item.nome}`)
+                    .join("\n")}`;
+                  return `${categoriaFormatada}\n`;
+                } else {
+                  return null;
+                }
+              })
+              .filter((categoria) => categoria !== null)
+              .join("\n");
+          })
+          .filter((categoria) => categoria !== null)
+          .join(`\n${"-".repeat(30)}\n\n`);
+
+        this.pedidoMontado += resultado7;
+      }
+
+      if (dados7.length > 0) {
+        this.pedidoMontado += `\n${"-".repeat(30)}\n\n`;
+      }
+
+      var dados8 = this.carrinho.crepiocaFit;
+      if (dados8.length > 0) {
+        const resultado8 = dados8
+          .map((categoria) => {
+            return Object.keys(categoria)
+              .map((chave) => {
+                const itensComQuantidade = categoria[chave].filter(
+                  (item) => item.quantidade > 0
+                );
+
+                if (itensComQuantidade.length > 0) {
+                  const categoriaFormatada = `${itensComQuantidade
+                    .map((item) => ` *${item.quantidade}x* ${item.nome}`)
+                    .join("\n")}`;
+                  return `${categoriaFormatada}\n`;
+                } else {
+                  return null;
+                }
+              })
+              .filter((categoria) => categoria !== null)
+              .join("\n");
+          })
+          .filter((categoria) => categoria !== null)
+          .join(`\n${"-".repeat(30)}\n\n`);
+
+        this.pedidoMontado += resultado8;
+      }
+
+      if (dados8.length > 0) {
+        this.pedidoMontado += `\n${"-".repeat(30)}\n\n`;
+      }
+
+      var dados9 = this.carrinho.pizzasFit;
+      if (dados9.length > 0) {
+        const resultado9 = dados9
+          .map((categoria) => {
+            return Object.keys(categoria)
+              .map((chave) => {
+                const itensComQuantidade = categoria[chave].filter(
+                  (item) => item.quantidade > 0
+                );
+
+                if (itensComQuantidade.length > 0) {
+                  const categoriaFormatada = `${itensComQuantidade
+                    .map((item) => ` *${item.quantidade}x* ${item.nome}`)
+                    .join("\n")}`;
+                  return `${categoriaFormatada}\n`;
+                } else {
+                  return null;
+                }
+              })
+              .filter((categoria) => categoria !== null)
+              .join("\n");
+          })
+          .filter((categoria) => categoria !== null)
+          .join(`\n${"-".repeat(30)}\n\n`);
+
+        this.pedidoMontado += resultado9;
+      }
+
+      if (dados9.length > 0) {
+        this.pedidoMontado += `\n${"-".repeat(30)}\n\n`;
+      }
+
+      var dados10 = this.carrinho.tapiocasRecheadas;
+      if (dados10.length > 0) {
+        const resultado10 = dados10
+          .map((categoria) => {
+            return Object.keys(categoria)
+              .map((chave) => {
+                const itensComQuantidade = categoria[chave].filter(
+                  (item) => item.quantidade > 0
+                );
+
+                if (itensComQuantidade.length > 0) {
+                  const categoriaFormatada = `${itensComQuantidade
+                    .map((item) => ` *${item.quantidade}x* ${item.nome}`)
+                    .join("\n")}`;
+                  return `${categoriaFormatada}\n`;
+                } else {
+                  return null;
+                }
+              })
+              .filter((categoria) => categoria !== null)
+              .join("\n");
+          })
+          .filter((categoria) => categoria !== null)
+          .join(`\n${"-".repeat(30)}\n\n`);
+
+        this.pedidoMontado += resultado10;
+      }
+
+      if (dados10.length > 0) {
+        this.pedidoMontado += `\n${"-".repeat(30)}\n\n`;
+      }
+
+      var dados11 = this.carrinho.tapiocasDoces;
+      if (dados11.length > 0) {
+        const resultado11 = dados11
+          .map((categoria) => {
+            return Object.keys(categoria)
+              .map((chave) => {
+                const itensComQuantidade = categoria[chave].filter(
+                  (item) => item.quantidade > 0
+                );
+
+                if (itensComQuantidade.length > 0) {
+                  const categoriaFormatada = `${itensComQuantidade
+                    .map((item) => ` *${item.quantidade}x* ${item.nome}`)
+                    .join("\n")}`;
+                  return `${categoriaFormatada}\n`;
+                } else {
+                  return null;
+                }
+              })
+              .filter((categoria) => categoria !== null)
+              .join("\n");
+          })
+          .filter((categoria) => categoria !== null)
+          .join(`\n${"-".repeat(30)}\n\n`);
+
+        this.pedidoMontado += resultado11;
+      }
+
+      if (dados11.length > 0) {
+        this.pedidoMontado += `\n${"-".repeat(30)}\n\n`;
+      }
+
+      var dados12 = this.carrinho.sanduichesNaturais;
+      if (dados12.length > 0) {
+        const resultado12 = dados12
+          .map((categoria) => {
+            return Object.keys(categoria)
+              .map((chave) => {
+                const itensComQuantidade = categoria[chave].filter(
+                  (item) => item.quantidade > 0
+                );
+
+                if (itensComQuantidade.length > 0) {
+                  const categoriaFormatada = `${itensComQuantidade
+                    .map((item) => ` *${item.quantidade}x* ${item.nome}`)
+                    .join("\n")}`;
+                  return `${categoriaFormatada}\n`;
+                } else {
+                  return null;
+                }
+              })
+              .filter((categoria) => categoria !== null)
+              .join("\n");
+          })
+          .filter((categoria) => categoria !== null)
+          .join(`\n${"-".repeat(30)}\n\n`);
+
+        this.pedidoMontado += resultado12;
+      }
+
+      if (dados12.length > 0) {
+        this.pedidoMontado += `\n${"-".repeat(30)}\n\n`;
+      }
+
+      var dados13 = this.carrinho.panquecasFit;
+      if (dados13.length > 0) {
+        const resultado13 = dados13
+          .map((categoria) => {
+            return Object.keys(categoria)
+              .map((chave) => {
+                const itensComQuantidade = categoria[chave].filter(
+                  (item) => item.quantidade > 0
+                );
+
+                if (itensComQuantidade.length > 0) {
+                  const categoriaFormatada = `${itensComQuantidade
+                    .map((item) => ` *${item.quantidade}x* ${item.nome}`)
+                    .join("\n")}`;
+                  return `${categoriaFormatada}\n`;
+                } else {
+                  return null;
+                }
+              })
+              .filter((categoria) => categoria !== null)
+              .join("\n");
+          })
+          .filter((categoria) => categoria !== null)
+          .join(`\n${"-".repeat(30)}\n\n`);
+
+        this.pedidoMontado += resultado13;
+      }
+
+      if (dados13.length > 0) {
+        this.pedidoMontado += `\n${"-".repeat(30)}\n\n`;
+      }
+
+      var dados14 = this.carrinho.sucosNaturais;
+      if (dados14.length > 0) {
+        const resultado14 = dados14
+          .map((categoria) => {
+            return Object.keys(categoria)
+              .map((chave) => {
+                const itensComQuantidade = categoria[chave].filter(
+                  (item) => item.quantidade > 0
+                );
+
+                if (itensComQuantidade.length > 0) {
+                  const categoriaFormatada = `${itensComQuantidade
+                    .map((item) => ` *${item.quantidade}x* ${item.nome}`)
+                    .join("\n")}`;
+                  return `${categoriaFormatada}\n`;
+                } else {
+                  return null;
+                }
+              })
+              .filter((categoria) => categoria !== null)
+              .join("\n");
+          })
+          .filter((categoria) => categoria !== null)
+          .join(`\n${"-".repeat(30)}\n\n`);
+
+        this.pedidoMontado += resultado14;
+      }
+
+      if (dados14.length > 0) {
+        this.pedidoMontado += `\n${"-".repeat(30)}\n\n`;
+      }
+
+      var dados15 = this.carrinho.detoxVerdeAntioxidante;
+      if (dados15.length > 0) {
+        const resultado15 = dados15
+          .map((categoria) => {
+            return Object.keys(categoria)
+              .map((chave) => {
+                const itensComQuantidade = categoria[chave].filter(
+                  (item) => item.quantidade > 0
+                );
+
+                if (itensComQuantidade.length > 0) {
+                  const categoriaFormatada = `${itensComQuantidade
+                    .map((item) => ` *${item.quantidade}x* ${item.nome}`)
+                    .join("\n")}`;
+                  return `${categoriaFormatada}\n`;
+                } else {
+                  return null;
+                }
+              })
+              .filter((categoria) => categoria !== null)
+              .join("\n");
+          })
+          .filter((categoria) => categoria !== null)
+          .join(`\n${"-".repeat(30)}\n\n`);
+
+        this.pedidoMontado += resultado15;
+      }
+
+      if (dados15.length > 0) {
+        this.pedidoMontado += `\n${"-".repeat(30)}\n\n`;
+      }
+
+      var dados16 = this.carrinho.shakesProteicos;
+      if (dados16.length > 0) {
+        const resultado16 = dados16
+          .map((categoria) => {
+            return Object.keys(categoria)
+              .map((chave) => {
+                const itensComQuantidade = categoria[chave].filter(
+                  (item) => item.quantidade > 0
+                );
+
+                if (itensComQuantidade.length > 0) {
+                  const categoriaFormatada = `${itensComQuantidade
+                    .map((item) => ` *${item.quantidade}x* ${item.nome}`)
+                    .join("\n")}`;
+                  return `${categoriaFormatada}\n`;
+                } else {
+                  return null;
+                }
+              })
+              .filter((categoria) => categoria !== null)
+              .join("\n");
+          })
+          .filter((categoria) => categoria !== null)
+          .join(`\n${"-".repeat(30)}\n\n`);
+
+        this.pedidoMontado += resultado16;
+      }
+
+      if (dados16.length > 0) {
+        this.pedidoMontado += `\n${"-".repeat(30)}\n\n`;
+      }
+
       this.pedidoMontado += `\n*Observações:*\n - ${this.carrinho.observacao}\n`;
 
       if (this.carrinho.dadosPessoais.formaDeEntrega == "Vou buscar") {
@@ -347,6 +667,7 @@ export default {
         </p>
       </div>
       <div class="payment-container">
+        <!--
         <div class="price-card">
           <input
             v-model="carrinho.dadosPessoais.formaDeEntrega"
@@ -361,6 +682,7 @@ export default {
           </div>
           <label for="Vou buscar"></label>
         </div>
+         -->
         <div class="price-card">
           <input
             v-model="carrinho.dadosPessoais.formaDeEntrega"
