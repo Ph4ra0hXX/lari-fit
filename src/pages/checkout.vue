@@ -264,8 +264,8 @@ export default {
 }
 
 .botao1 {
-  background-color: #08b046;
-  color: #000000;
+  background-color: #004632;
+  color: #fff;
   border: none;
   padding: 5px 10px;
   font-size: 20px;
@@ -279,7 +279,7 @@ export default {
 }
 
 .botao2 {
-  background-color: #08b046;
+  background-color: #004632;
   color: #000000;
   border: none;
   padding: 5px 10px;
@@ -376,7 +376,7 @@ textarea {
   width: 100%;
   padding: 1rem;
   letter-spacing: 0.8px;
-  background: #08b046;
+  background: #004632;
   border: none;
   color: #fff;
   border-radius: 3px;
@@ -386,7 +386,7 @@ textarea {
 }
 
 .btn:hover {
-  background: #08b046;
+  background: #004632;
   letter-spacing: 1px;
   box-shadow: 1px 4px 8px rgba(242, 113, 65, 0.2);
 }
@@ -466,7 +466,7 @@ textarea {
 
 .paypal__subheader {
   padding: 0 45px 0 40px;
-  border-left: 5px solid #08b046;
+  border-left: 5px solid #004632;
 }
 
 .paypal__username {

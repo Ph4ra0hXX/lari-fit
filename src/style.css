@@ -67,12 +67,6 @@
   }
 }
 
-body {
-  background-color: #201726;
-  background-image: url(/fundo.webp);
-  margin: 0;
-}
-
 #cardapio {
   max-width: 600px;
   margin-left: 20px;
@@ -155,7 +149,7 @@ label {
 }
 
 .container-checkbox input:checked ~ .checkmark {
-  background-color: #08b046;
+  background-color: #004632;
 }
 
 .container-checkbox .checkmark:after {
@@ -170,7 +164,7 @@ label {
 
 #preco {
   float: right;
-  font-size: 17px;
+  font-size: 20px;
   margin-top: 10px;
 }
 
@@ -187,7 +181,7 @@ label {
 
 #categoria {
   font-family: Barlow-Black;
-  color: #08b046;
+  color: #004632;
   font-size: 25px;
   display: block;
   margin-bottom: 20px;
@@ -224,7 +218,7 @@ label {
 .rodape {
   margin-top: -35px;
   text-align: center;
-  color: #fff;
+  color: #000000;
   font-family: Barlow-SemiBold;
   bottom: 0;
 }
@@ -246,7 +240,7 @@ a {
 }
 
 #nomeDev {
-  color: #08b046;
+  color: #004632;
   margin-left: 5px;
 }
 
@@ -256,7 +250,7 @@ a {
   padding: 15px 30px;
   border-radius: 3px;
   border: 0;
-  background-color: #08b046;
+  background-color: #004632;
   cursor: pointer;
   font-family: Barlow-SemiBold;
   font-size: 15px;
@@ -313,7 +307,7 @@ a {
 }
 
 #fixedContainer2 {
-  background-color: #08b046;
+  background-color: #004632;
   position: fixed;
   margin-top: 462px;
   width: 100px;
@@ -342,7 +336,7 @@ a {
 }
 
 #itens {
-  color: #08b046;
+  color: #004632;
   font-family: Barlow-SemiBold;
   font-size: 18px;
   line-height: 1.5;
@@ -356,7 +350,7 @@ a {
   align-items: center;
   height: 50px;
   border-radius: 8px 8px 8px 0;
-  background: #08b046;
+  background: #004632;
   z-index: 99;
   position: absolute;
   font-family: Barlow-SemiBold;
@@ -507,7 +501,7 @@ a {
 #preco2 {
   margin-top: -27px;
   float: right;
-  font-size: 15px;
+  font-size: 20px;
   float: right !important;
 }
 

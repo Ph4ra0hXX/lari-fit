@@ -226,7 +226,7 @@ export const produtosStore = defineStore("produto", {
         {
           id: 15,
           nome: "DETOX, VERDE E ANTIOXIDANTE",
-          img: "food33.webp",
+          img: "7.png",
           descricao: "Sucos detox, verdes e antioxidantes.",
           url: "/detox-verde-antioxidante",
           diasSemana: [
@@ -242,7 +242,7 @@ export const produtosStore = defineStore("produto", {
         {
           id: 16,
           nome: "SHAKES PROTEICOS",
-          img: "food44.webp",
+          img: "7.png",
           descricao: "Shakes proteicos variados.",
           url: "/shakes-proteicos",
           diasSemana: [
@@ -396,7 +396,7 @@ export const produtosStore2 = defineStore("produto2", {
         {
           id: 15,
           nome: "DETOX, VERDE E ANTIOXIDANTE",
-          img: "food33.webp",
+          img: "7.png",
           descricao: "Sucos detox, verdes e antioxidantes.",
           url: "/detox-verde-antioxidante",
           diasSemana: [
@@ -412,7 +412,7 @@ export const produtosStore2 = defineStore("produto2", {
         {
           id: 16,
           nome: "SHAKES PROTEICOS",
-          img: "food44.webp",
+          img: "7.png",
           descricao: "Shakes proteicos variados.",
           url: "/shakes-proteicos",
           diasSemana: [

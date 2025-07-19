@@ -293,12 +293,12 @@ export default {
 
 #quantidadeDiv {
   font-weight: bold;
-  color: #08b046;
+  color: #004632;
   font-size: 20px;
 }
 
 #textDividers {
-  color: #08b046;
+  color: #004632;
   font-family: "Barlow-Black";
   font-size: 25px;
   font-weight: lighter;
@@ -326,8 +326,8 @@ export default {
 }
 
 .botao1 {
-  background-color: #08b046;
-  color: #000000;
+  background-color: #004632;
+  color: #fff;
   border: none;
   padding: 5px 10px;
   font-size: 20px;
@@ -341,7 +341,7 @@ export default {
 }
 
 .botao2 {
-  background-color: #08b046;
+  background-color: #004632;
   color: #000000;
   border: none;
   padding: 5px 10px;
@@ -356,7 +356,7 @@ export default {
 }
 
 #nomeItem {
-  font-size: 16px;
+  font-size: 20px;
   margin-left: 7px;
 }
 

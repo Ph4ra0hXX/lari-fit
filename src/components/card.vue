@@ -78,7 +78,7 @@ p {
   border-top-left-radius: 50%;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #08b046;
+  background-color: #6f966a;
   padding-top: calc(100% * 1.18);
   transition: all 0.3s ease-out 0.1s;
   display: flex;
@@ -104,7 +104,7 @@ p {
   margin-top: 5px;
   font-family: Barlow-SemiBold;
   font-size: 15px;
-  line-height: 14px;
+  line-height: 16px;
   color: #0e0e0e;
 }
 

@@ -14,8 +14,8 @@ import Footer from "./components/footer.vue";
 
 <style>
 body {
-  background-color: #141414;
-  background-image: url(/fundo.webp);
+  background-image: url(/fundo.png);
+  background-color: #ccea9b;
   margin: 0;
 }
 </style>
