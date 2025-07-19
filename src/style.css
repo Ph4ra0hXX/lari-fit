@@ -100,7 +100,7 @@
 }
 
 label {
-  color: #ffffff;
+  color: #000;
   font-family: Barlow-SemiBold;
   font-size: 14px;
 }
@@ -165,7 +165,7 @@ label {
 #preco {
   float: right;
   font-size: 20px;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 #ingredientes {

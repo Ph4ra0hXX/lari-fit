@@ -237,7 +237,7 @@ export default {
 
 .botao2 {
   background-color: #004632;
-  color: #000000;
+  color: #fff;
   border: none;
   padding: 5px 10px;
   font-size: 20px;

@@ -93,7 +93,7 @@ p {
 }
 
 .card__info h2 {
-  font-size: 20px;
+  font-size: 16px;
   font-family: Barlow-Black;
   font-weight: 800;
   color: #ffffff;
