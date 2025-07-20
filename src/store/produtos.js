@@ -98,7 +98,7 @@ export const produtosStore = defineStore("produto", {
         {
           id: 7,
           nome: "LACUP",
-          img: "8.png",
+          img: "8.webp",
           descricao: "Copo de frutas frescas com cremes diversos.",
           url: "/lacup",
           diasSemana: [
@@ -130,7 +130,7 @@ export const produtosStore = defineStore("produto", {
         {
           id: 9,
           nome: "PIZZAS FIT (4 FATIAS)",
-          img: "2.png",
+          img: "2.webp",
           descricao: "Pensadas para quem quer manter o equilíbrio sem abrir mão do prazer de comer bem.",
           url: "/pizzas-fit",
           diasSemana: [
@@ -162,7 +162,7 @@ export const produtosStore = defineStore("produto", {
         {
           id: 11,
           nome: "TAPIOCAS DOCES",
-          img: "4.png",
+          img: "4.webp",
           descricao: "Preparadas com uma base leve e proteica, nossas crepiocas são livres de farinha refinada, glúten e lactose.",
           url: "/tapiocas-doces",
           diasSemana: [
@@ -194,7 +194,7 @@ export const produtosStore = defineStore("produto", {
         {
           id: 13,
           nome: "PANQUECAS FIT",
-          img: "6.png",
+          img: "6.webp",
           descricao: "Leve, saborosa e naturalmente doce. Ideal para qualquer hora do dia.",
           url: "/panquecas-fit",
           diasSemana: [
@@ -267,7 +267,7 @@ export const produtosStore2 = defineStore("produto2", {
         {
           id: 7,
           nome: "LACUP",
-          img: "8.png",
+          img: "8.webp",
           descricao: "Copo de frutas frescas com cremes diversos.",
           url: "/lacup",
           diasSemana: [
@@ -315,7 +315,7 @@ export const produtosStore2 = defineStore("produto2", {
         {
           id: 9,
           nome: "PIZZAS FIT (4 FATIAS)",
-          img: "food6.png",
+          img: "food6.webp",
           descricao: "Pensadas para quem quer manter o equilíbrio sem abrir mão do prazer de comer bem.",
           url: "/pizzas-fit",
           diasSemana: [
@@ -363,7 +363,7 @@ export const produtosStore2 = defineStore("produto2", {
         {
           id: 12,
           nome: "SANDUÍCHES NATURAIS",
-          img: "food12.png",
+          img: "food12.webp",
           descricao: "Pão integral 12 grãos sem açúcar + recheios frescos e ricos em proteína.",
           url: "/sanduiches-naturais",
           diasSemana: [
@@ -379,7 +379,7 @@ export const produtosStore2 = defineStore("produto2", {
         {
           id: 13,
           nome: "PANQUECAS FIT",
-          img: "food14.png",
+          img: "food14.webp",
           descricao: "Leve, saborosa e naturalmente doce. Ideal para qualquer hora do dia.",
           url: "/panquecas-fit",
           diasSemana: [
