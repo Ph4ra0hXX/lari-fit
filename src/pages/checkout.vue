@@ -20,6 +20,7 @@ export default {
     const sucosNaturais = ref([...carrinho.sucosNaturais]);
     const detoxVerdeAntioxidante = ref([...carrinho.detoxVerdeAntioxidante]);
     const shakesProteicos = ref([...carrinho.shakesProteicos]);
+    const cuscuzRecheado = ref([...carrinho.cuscuzRecheado]);
 
     function checarSeCarrinhoNaoEstaVazio() {
       if (carrinho.getTotalPedidos > 0) {
@@ -96,6 +97,7 @@ export default {
       sucosNaturais,
       detoxVerdeAntioxidante,
       shakesProteicos,
+      cuscuzRecheado,
     };
   },
 };
@@ -126,6 +128,7 @@ export default {
           'sucosNaturais',
           'detoxVerdeAntioxidante',
           'shakesProteicos',
+          'cuscuzRecheado',
         ]"
         :key="categoria"
       >
