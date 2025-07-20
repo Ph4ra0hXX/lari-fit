@@ -19,6 +19,7 @@ import SucosNaturais from "../pages/sucosNaturais.vue";
 import DetoxVerdeAntioxidante from "../pages/detoxVerdeAntioxidante.vue";
 import ShakesProteicos from "../pages/shakesProteicos.vue";
 import Lacup from "../pages/lacup.vue";
+import CuscuzRecheado from "../pages/cuscuzRecheado.vue";
 
 const routes = [
   {
@@ -115,6 +116,11 @@ const routes = [
     path: "/shakes-proteicos",
     name: "shakesProteicos",
     component: ShakesProteicos,
+  },
+  {
+    path: "/cuscuz-recheado",
+    name: "cuscuzRecheado",
+    component: CuscuzRecheado,
   },
 ];
 

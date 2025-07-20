@@ -19,6 +19,7 @@ export const carrinhoStore = defineStore("carrinho", {
       sucosNaturais: [],
       detoxVerdeAntioxidante: [],
       shakesProteicos: [],
+      cuscuzRecheado: [],
       dadosPessoais: {
         nome: "",
         rua: "",
@@ -56,6 +57,7 @@ export const carrinhoStore = defineStore("carrinho", {
         ...this.sucosNaturais,
         ...this.detoxVerdeAntioxidante,
         ...this.shakesProteicos,
+        ...this.cuscuzRecheado,
       ];
 
       pedidos.forEach((categoria) => {
@@ -85,7 +87,8 @@ export const carrinhoStore = defineStore("carrinho", {
         this.panquecasFit.length +
         this.sucosNaturais.length +
         this.detoxVerdeAntioxidante.length +
-        this.shakesProteicos.length
+        this.shakesProteicos.length +
+        this.cuscuzRecheado.length
       );
     },
   },
@@ -181,6 +184,22 @@ export const produtosStore = defineStore("produto", {
           img: "5.webp",
           descricao: "Pão integral 12 grãos sem açúcar + recheios frescos e ricos em proteína.",
           url: "/sanduiches-naturais",
+          diasSemana: [
+            "segunda-feira",
+            "terça-feira",
+            "quarta-feira",
+            "quinta-feira",
+            "sexta-feira",
+            "sábado",
+            "domingo",
+          ],
+        },
+         {
+          id: 18,
+          nome: "CUSCUZ RECHEADO",
+          img: "11.webp",
+          descricao: "Cuscuz recheado com opções saudáveis e saborosas.",
+          url: "/cuscuz-recheado",
           diasSemana: [
             "segunda-feira",
             "terça-feira",
@@ -366,6 +385,22 @@ export const produtosStore2 = defineStore("produto2", {
           img: "food12.webp",
           descricao: "Pão integral 12 grãos sem açúcar + recheios frescos e ricos em proteína.",
           url: "/sanduiches-naturais",
+          diasSemana: [
+            "segunda-feira",
+            "terça-feira",
+            "quarta-feira",
+            "quinta-feira",
+            "sexta-feira",
+            "sábado",
+            "domingo",
+          ],
+        },
+         {
+          id: 18,
+          nome: "CUSCUZ RECHEADO",
+          img: "11.webp",
+          descricao: "Cuscuz recheado com opções saudáveis e saborosas.",
+          url: "/cuscuz-recheado",
           diasSemana: [
             "segunda-feira",
             "terça-feira",
