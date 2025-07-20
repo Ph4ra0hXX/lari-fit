@@ -117,7 +117,7 @@ export const produtosStore = defineStore("produto", {
         {
           id: 8,
           nome: "CREPIOCA FIT",
-          img: "1.webp",
+          img: "6.webp",
           descricao: "Preparadas com uma base leve e proteica, nossas crepiocas são livres de farinha refinada, glúten e lactose.",
           url: "/crepioca-fit",
           diasSemana: [
@@ -213,7 +213,7 @@ export const produtosStore = defineStore("produto", {
         {
           id: 13,
           nome: "PANQUECAS FIT",
-          img: "6.webp",
+          img: "4.webp",
           descricao: "Leve, saborosa e naturalmente doce. Ideal para qualquer hora do dia.",
           url: "/panquecas-fit",
           diasSemana: [
@@ -318,7 +318,7 @@ export const produtosStore2 = defineStore("produto2", {
         {
           id: 8,
           nome: "CREPIOCA FIT",
-          img: "food5.webp",
+          img: "6.webp",
           descricao: "Preparadas com uma base leve e proteica, nossas crepiocas são livres de farinha refinada, glúten e lactose.",
           url: "/crepioca-fit",
           diasSemana: [
@@ -334,7 +334,7 @@ export const produtosStore2 = defineStore("produto2", {
         {
           id: 9,
           nome: "PIZZAS FIT (4 FATIAS)",
-          img: "food6.webp",
+          img: "food4.webp",
           descricao: "Pensadas para quem quer manter o equilíbrio sem abrir mão do prazer de comer bem.",
           url: "/pizzas-fit",
           diasSemana: [
