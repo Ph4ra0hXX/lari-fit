@@ -46,10 +46,30 @@ export default {
 
     const SanduichesNaturais = ref({
       tipos: [
-        { nome: "FRANGO", preco: 8.0, quantidade: 0, descricao: "" },
-        { nome: "ATUM", preco: 8.99, quantidade: 0, descricao: "" },
-        { nome: "QUEIJO", preco: 7.0, quantidade: 0, descricao: "" },
-        { nome: "OVO", preco: 7.0, quantidade: 0, descricao: "" },
+        {
+          nome: "SANDUICHE NATURAL FRANGO",
+          preco: 8.0,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
+          nome: "SANDUICHE NATURAL ATUM",
+          preco: 8.99,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
+          nome: "SANDUICHE NATURAL QUEIJO",
+          preco: 7.0,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
+          nome: "SANDUICHE NATURAL OVO",
+          preco: 7.0,
+          quantidade: 0,
+          descricao: "",
+        },
       ],
     });
 

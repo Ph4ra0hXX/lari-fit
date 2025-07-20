@@ -13,21 +13,21 @@ export default {
     const ShakesProteicos = ref({
       tipos: [
         {
-          nome: "Banachi",
+          nome: "SHAKE BANACHI",
           preco: 11.0,
           quantidade: 0,
           descricao:
             "Shake de banana, morango e chia. Fonte de fibras, potássio e ômega-3 vegetal.",
         },
         {
-          nome: "Pitaya Fresh",
+          nome: "SHAKE PITAYA FRESH",
           preco: 12.99,
           quantidade: 0,
           descricao:
             "Pitaya, banana com leite desnatado. Rico em antioxidantes e fibras.",
         },
         {
-          nome: "Açaí Energy Plus",
+          nome: "SHAKE AÇAÍ ENERGY PLUS",
           preco: 13.99,
           quantidade: 0,
           descricao:

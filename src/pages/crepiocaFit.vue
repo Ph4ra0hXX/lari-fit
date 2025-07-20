@@ -11,9 +11,24 @@ export default {
 
     const CrepiocaFit = ref({
       tipos: [
-        { nome: "CARNE", preco: 8.0, quantidade: 0, descricao: "" },
-        { nome: "FRANGO", preco: 8.0, quantidade: 0, descricao: "" },
-        { nome: "CARNE DE SOL", preco: 8.5, quantidade: 0, descricao: "" },
+        {
+          nome: "(Crepioca Fit) - CARNE",
+          preco: 8.0,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
+          nome: "(Crepioca Fit) - FRANGO",
+          preco: 8.0,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
+          nome: "(Crepioca Fit) - CARNE DE SOL",
+          preco: 8.5,
+          quantidade: 0,
+          descricao: "",
+        },
       ],
     });
 

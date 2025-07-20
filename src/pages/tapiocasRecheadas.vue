@@ -11,29 +11,44 @@ export default {
 
     const TapiocasRecheadas = ref({
       tipos: [
-        { nome: "CARNE DE SOL", preco: 9.0, quantidade: 0, descricao: "" },
         {
-          nome: "CARNE DE SOL E QUEIJO",
+          nome: "TAPIOCA DE CARNE DE SOL",
+          preco: 9.0,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
+          nome: "TAPIOCA DE CARNE DE SOL E QUEIJO",
           preco: 9.99,
           quantidade: 0,
           descricao: "",
         },
-        { nome: "CARNE MOÍDA", preco: 8.0, quantidade: 0, descricao: "" },
+        {
+          nome: "TAPIOCA DE CARNE MOÍDA",
+          preco: 8.0,
+          quantidade: 0,
+          descricao: "",
+        },
         {
           nome: "FRANGO E REQUEIJÃO LIGHT",
           preco: 9.0,
           quantidade: 0,
           descricao: "",
         },
-        { nome: "QUEIJO E OVOS", preco: 7.5, quantidade: 0, descricao: "" },
         {
-          nome: "QUEIJO E REQUEIJÃO",
+          nome: "TAPIOCA DE QUEIJO E OVOS",
           preco: 7.5,
           quantidade: 0,
           descricao: "",
         },
         {
-          nome: "FRANGO, QUEIJO E OVOS",
+          nome: "TAPIOCA DE QUEIJO E REQUEIJÃO",
+          preco: 7.5,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
+          nome: "TAPIOCA DE FRANGO, QUEIJO E OVOS",
           preco: 9.99,
           quantidade: 0,
           descricao: "",

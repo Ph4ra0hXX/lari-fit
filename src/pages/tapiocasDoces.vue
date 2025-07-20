@@ -12,21 +12,21 @@ export default {
     const TapiocasDoces = ref({
       tipos: [
         {
-          nome: "BANANA COM DOCE DE LEITE",
+          nome: "TAPIOCA DE BANANA COM DOCE DE LEITE",
           preco: 9.0,
           quantidade: 0,
           descricao:
             "Pasta de amendoim sabor doce de leite + rodelas de banana",
         },
         {
-          nome: "MORANGO COM AVELÃ",
+          nome: "TAPIOCA DE MORANGO COM AVELÃ",
           preco: 11.0,
           quantidade: 0,
           descricao:
             "Pasta de amendoim sabor avelã + rodelas de morango fresco",
         },
         {
-          nome: "UVA COM CHOCOLATE BRANCO",
+          nome: "TAPIOCA DE UVA COM CHOCOLATE BRANCO",
           preco: 9.0,
           quantidade: 0,
           descricao:

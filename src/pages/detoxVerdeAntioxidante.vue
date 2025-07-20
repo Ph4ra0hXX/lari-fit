@@ -13,21 +13,21 @@ export default {
     const DetoxVerdeAntioxidante = ref({
       tipos: [
         {
-          nome: "Detox Tropical",
+          nome: "DETOX TROPICAL",
           preco: 8.0,
           quantidade: 0,
           descricao:
             "Abacaxi, couve, maçã verde, limão e gengibre. Limpa, desincha e revitaliza com sabor equilibrado e frescor natural.",
         },
         {
-          nome: "Imuno+",
+          nome: "DETOX IMUNO+",
           preco: 8.0,
           quantidade: 0,
           descricao:
             "Laranja, acerola e hortelã. Refresca, fortalece a imunidade e ajuda a combater o cansaço. Rico em vitamina C com um toque digestivo e natural.",
         },
         {
-          nome: "Active Raiz",
+          nome: "DETOX ACTIVE RAIZ",
           preco: 8.99,
           quantidade: 0,
           descricao:

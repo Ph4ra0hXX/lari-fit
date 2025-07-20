@@ -13,18 +13,23 @@ export default {
     const SucosNaturais = ref({
       tipos: [
         {
-          nome: "Laranja com Morango",
+          nome: "SUCO DE LARANJA COM MORANGO",
           preco: 9.0,
           quantidade: 0,
           descricao: "",
         },
         {
-          nome: "Abacaxi com Hortelã",
+          nome: "SUCO DE ABACAXI COM HORTELÃ",
           preco: 8.0,
           quantidade: 0,
           descricao: "",
         },
-        { nome: "Acerola com limão", preco: 8.0, quantidade: 0, descricao: "" },
+        {
+          nome: "SUCO DE ACEROLA COM LIMÃO",
+          preco: 8.0,
+          quantidade: 0,
+          descricao: "",
+        },
       ],
     });
 

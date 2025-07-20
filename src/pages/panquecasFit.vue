@@ -12,8 +12,13 @@ export default {
 
     const PanquecasFit = ref({
       tipos: [
-        { nome: "BANANA", preco: 5.0, quantidade: 0, descricao: "" },
-        { nome: "MAÇÃ", preco: 6.0, quantidade: 0, descricao: "" },
+        {
+          nome: "PANQUECA FIT BANANA",
+          preco: 5.0,
+          quantidade: 0,
+          descricao: "",
+        },
+        { nome: "PANQUECA FIT MAÇÃ", preco: 6.0, quantidade: 0, descricao: "" },
       ],
     });
 
