@@ -25,13 +25,13 @@ export default {
           descricao:
             "Pasta de amendoim sabor avelã + rodelas de morango fresco",
         },
-        {
+       /* {
           nome: "TAPIOCA DE UVA COM CHOCOLATE BRANCO",
           preco: 9.0,
           quantidade: 0,
           descricao:
             "Pasta de amendoim sabor chocolate branco + rodelas de uva verde",
-        },
+        },*/
       ],
     });
 
