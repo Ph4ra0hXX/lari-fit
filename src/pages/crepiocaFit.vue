@@ -29,6 +29,12 @@ export default {
           quantidade: 0,
           descricao: "",
         },
+        {
+          nome: "(Crepioca Fit) - Adicional de Arroz",
+          preco: 2.0,
+          quantidade: 0,
+          descricao: "",
+        },
       ],
     });
 

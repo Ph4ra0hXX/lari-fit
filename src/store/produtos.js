@@ -149,7 +149,7 @@ export const produtosStore = defineStore("produto", {
         {
           id: 10,
           nome: "TAPIOCAS RECHEADAS",
-          img: "3.webp",
+          img: "13.webp",
           descricao: "Nossas tapiocas são feitas com base leve, sem glúten, sem lactose e cheias de sabor.",
           url: "/tapiocas-recheadas",
           diasSemana: [
@@ -165,7 +165,7 @@ export const produtosStore = defineStore("produto", {
         {
           id: 11,
           nome: "TAPIOCAS DOCES",
-          img: "4.webp",
+          img: "14.webp",
           descricao: "Preparadas com uma base leve e proteica, nossas crepiocas são livres de farinha refinada, glúten e lactose.",
           url: "/tapiocas-doces",
           diasSemana: [
@@ -350,7 +350,7 @@ export const produtosStore2 = defineStore("produto2", {
         {
           id: 10,
           nome: "TAPIOCAS RECHEADAS",
-          img: "food1.webp",
+          img: "13.webp",
           descricao: "Nossas tapiocas são feitas com base leve, sem glúten, sem lactose e cheias de sabor.",
           url: "/tapiocas-recheadas",
           diasSemana: [
@@ -366,7 +366,7 @@ export const produtosStore2 = defineStore("produto2", {
         {
           id: 11,
           nome: "TAPIOCAS DOCES",
-          img: "food11.webp",
+          img: "14.webp",
           descricao: "Preparadas com uma base leve e proteica, nossas crepiocas são livres de farinha refinada, glúten e lactose.",
           url: "/tapiocas-doces",
           diasSemana: [
