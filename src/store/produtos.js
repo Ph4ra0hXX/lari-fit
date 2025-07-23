@@ -118,7 +118,8 @@ export const produtosStore = defineStore("produto", {
           id: 8,
           nome: "CREPIOCA FIT",
           img: "6.webp",
-          descricao: "Preparadas com uma base leve e proteica, nossas crepiocas são livres de farinha refinada, glúten e lactose.",
+          descricao:
+            "Preparadas com uma base leve e proteica, nossas crepiocas são livres de farinha refinada, glúten e lactose.",
           url: "/crepioca-fit",
           diasSemana: [
             "segunda-feira",
@@ -134,7 +135,8 @@ export const produtosStore = defineStore("produto", {
           id: 9,
           nome: "PIZZAS FIT (4 FATIAS)",
           img: "2.webp",
-          descricao: "Pensadas para quem quer manter o equilíbrio sem abrir mão do prazer de comer bem.",
+          descricao:
+            "Pensadas para quem quer manter o equilíbrio sem abrir mão do prazer de comer bem.",
           url: "/pizzas-fit",
           diasSemana: [
             "segunda-feira",
@@ -150,7 +152,8 @@ export const produtosStore = defineStore("produto", {
           id: 10,
           nome: "TAPIOCAS RECHEADAS",
           img: "13.webp",
-          descricao: "Nossas tapiocas são feitas com base leve, sem glúten, sem lactose e cheias de sabor.",
+          descricao:
+            "Nossas tapiocas são feitas com base leve, sem glúten, sem lactose e cheias de sabor.",
           url: "/tapiocas-recheadas",
           diasSemana: [
             "segunda-feira",
@@ -166,7 +169,8 @@ export const produtosStore = defineStore("produto", {
           id: 11,
           nome: "TAPIOCAS DOCES",
           img: "14.webp",
-          descricao: "Preparadas com uma base leve e proteica, nossas crepiocas são livres de farinha refinada, glúten e lactose.",
+          descricao:
+            "Preparadas com uma base leve e proteica, nossas crepiocas são livres de farinha refinada, glúten e lactose.",
           url: "/tapiocas-doces",
           diasSemana: [
             "segunda-feira",
@@ -182,7 +186,8 @@ export const produtosStore = defineStore("produto", {
           id: 12,
           nome: "SANDUÍCHES NATURAIS",
           img: "5.webp",
-          descricao: "Pão integral 12 grãos sem açúcar + recheios frescos e ricos em proteína.",
+          descricao:
+            "Pão integral 12 grãos sem açúcar + recheios frescos e ricos em proteína.",
           url: "/sanduiches-naturais",
           diasSemana: [
             "segunda-feira",
@@ -194,7 +199,7 @@ export const produtosStore = defineStore("produto", {
             "domingo",
           ],
         },
-         {
+        {
           id: 18,
           nome: "CUSCUZ RECHEADO",
           img: "11.webp",
@@ -214,7 +219,8 @@ export const produtosStore = defineStore("produto", {
           id: 13,
           nome: "PANQUECAS FIT",
           img: "4.webp",
-          descricao: "Leve, saborosa e naturalmente doce. Ideal para qualquer hora do dia.",
+          descricao:
+            "Leve, saborosa e naturalmente doce. Ideal para qualquer hora do dia.",
           url: "/panquecas-fit",
           diasSemana: [
             "segunda-feira",
@@ -300,26 +306,11 @@ export const produtosStore2 = defineStore("produto2", {
           ],
         },
         {
-          id: 7,
-          nome: "LACUP",
-          img: "food3.webp",
-          descricao: "Copo de frutas frescas com cremes diversos.",
-          url: "/lacup",
-          diasSemana: [
-            "segunda-feira",
-            "terça-feira",
-            "quarta-feira",
-            "quinta-feira",
-            "sexta-feira",
-            "sábado",
-            "domingo",
-          ],
-        },
-        {
           id: 8,
           nome: "CREPIOCA FIT",
           img: "6.webp",
-          descricao: "Preparadas com uma base leve e proteica, nossas crepiocas são livres de farinha refinada, glúten e lactose.",
+          descricao:
+            "Preparadas com uma base leve e proteica, nossas crepiocas são livres de farinha refinada, glúten e lactose.",
           url: "/crepioca-fit",
           diasSemana: [
             "segunda-feira",
@@ -334,8 +325,9 @@ export const produtosStore2 = defineStore("produto2", {
         {
           id: 9,
           nome: "PIZZAS FIT (4 FATIAS)",
-          img: "food4.webp",
-          descricao: "Pensadas para quem quer manter o equilíbrio sem abrir mão do prazer de comer bem.",
+          img: "2.webp",
+          descricao:
+            "Pensadas para quem quer manter o equilíbrio sem abrir mão do prazer de comer bem.",
           url: "/pizzas-fit",
           diasSemana: [
             "segunda-feira",
@@ -351,7 +343,8 @@ export const produtosStore2 = defineStore("produto2", {
           id: 10,
           nome: "TAPIOCAS RECHEADAS",
           img: "13.webp",
-          descricao: "Nossas tapiocas são feitas com base leve, sem glúten, sem lactose e cheias de sabor.",
+          descricao:
+            "Nossas tapiocas são feitas com base leve, sem glúten, sem lactose e cheias de sabor.",
           url: "/tapiocas-recheadas",
           diasSemana: [
             "segunda-feira",
@@ -367,7 +360,8 @@ export const produtosStore2 = defineStore("produto2", {
           id: 11,
           nome: "TAPIOCAS DOCES",
           img: "14.webp",
-          descricao: "Preparadas com uma base leve e proteica, nossas crepiocas são livres de farinha refinada, glúten e lactose.",
+          descricao:
+            "Preparadas com uma base leve e proteica, nossas crepiocas são livres de farinha refinada, glúten e lactose.",
           url: "/tapiocas-doces",
           diasSemana: [
             "segunda-feira",
@@ -382,8 +376,9 @@ export const produtosStore2 = defineStore("produto2", {
         {
           id: 12,
           nome: "SANDUÍCHES NATURAIS",
-          img: "food12.webp",
-          descricao: "Pão integral 12 grãos sem açúcar + recheios frescos e ricos em proteína.",
+          img: "5.webp",
+          descricao:
+            "Pão integral 12 grãos sem açúcar + recheios frescos e ricos em proteína.",
           url: "/sanduiches-naturais",
           diasSemana: [
             "segunda-feira",
@@ -395,7 +390,7 @@ export const produtosStore2 = defineStore("produto2", {
             "domingo",
           ],
         },
-         {
+        {
           id: 18,
           nome: "CUSCUZ RECHEADO",
           img: "11.webp",
@@ -414,8 +409,9 @@ export const produtosStore2 = defineStore("produto2", {
         {
           id: 13,
           nome: "PANQUECAS FIT",
-          img: "food14.webp",
-          descricao: "Leve, saborosa e naturalmente doce. Ideal para qualquer hora do dia.",
+          img: "4.webp",
+          descricao:
+            "Leve, saborosa e naturalmente doce. Ideal para qualquer hora do dia.",
           url: "/panquecas-fit",
           diasSemana: [
             "segunda-feira",
@@ -430,7 +426,7 @@ export const produtosStore2 = defineStore("produto2", {
         {
           id: 14,
           nome: "SUCOS NATURAIS",
-          img: "food9.webp",
+          img: "7.webp",
           descricao: "Sucos naturais variados.",
           url: "/sucos-naturais",
           diasSemana: [
