@@ -32,13 +32,13 @@ export default {
           descricao:
             "Banana, mamão e uva em camadas frescas, finalizado com iogurte natural, chia e mel.",
         },
-        /*{
+        {
           nome: "LACUP ROSYQUE",
-          preco: 13.0,
+          preco: 18.99,
           quantidade: 0,
           descricao:
             "Creme de whey chocolate branco, pitaya rosa e o kiwi fresco, com um toque delicado de chia para equilibrar.",
-        },*/
+        },
         {
           nome: "LACUP DOCELLA",
           preco: 14.5,
