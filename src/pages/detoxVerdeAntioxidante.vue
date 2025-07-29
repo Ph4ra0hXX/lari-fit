@@ -28,7 +28,7 @@ export default {
         },
         {
           nome: "DETOX ACTIVE RAIZ",
-          preco: 8.99,
+          preco: 9.0,
           quantidade: 0,
           descricao:
             "Cenoura, beterraba, gengibre, couve e limão. Detox potente com raízes e folhas. Aumenta a disposição, fortalece a imunidade e limpa de dentro pra fora.",

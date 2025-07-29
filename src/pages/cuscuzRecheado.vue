@@ -13,7 +13,7 @@ export default {
       tipos: [
         {
           nome: "CUSCUZ, QUEIJO E OVOS",
-          preco: 12.0,
+          preco: 11.0,
           quantidade: 0,
           descricao: "",
         },
@@ -25,13 +25,13 @@ export default {
         },
         {
           nome: "CUSCUZ, FRANGO, QUEIJO E REQUEIJÃO LIGHT",
-          preco: 13.0,
+          preco: 13.5,
           quantidade: 0,
           descricao: "",
         },
         {
           nome: "CUSCUZ, CARNE DE SOL COM REQUEIJÃO LIGHT",
-          preco: 13.0,
+          preco: 14.0,
           quantidade: 0,
           descricao: "",
         },
@@ -43,13 +43,13 @@ export default {
         },
         {
           nome: "CUSCUZ, OVOS",
-          preco: 8.0,
+          preco: 9.0,
           quantidade: 0,
           descricao: "",
         },
         {
           nome: "CUSCUZ, REQUEIJÃO LIGHT",
-          preco: 8.0,
+          preco: 10.0,
           quantidade: 0,
           descricao: "",
         },

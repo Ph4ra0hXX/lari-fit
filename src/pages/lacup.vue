@@ -13,21 +13,21 @@ export default {
       tipos: [
         {
           nome: "LACUP DOLCEMIX",
-          preco: 15.0,
+          preco: 19.99,
           quantidade: 0,
           descricao:
             "Morango fresco com banana, creme de chocolate 60%, finalizado com castanha triturada e hortelã.",
         },
         {
           nome: "LACUP LAVITTA",
-          preco: 11.0,
+          preco: 13.9,
           quantidade: 0,
           descricao:
             "Camadas de abacaxi, creme de manga e uva verde formam um lecup leve, vibrante e cheio de frescor natural.",
         },
         {
           nome: "LACUP BANUV",
-          preco: 13.0,
+          preco: 14.9,
           quantidade: 0,
           descricao:
             "Banana, mamão e uva em camadas frescas, finalizado com iogurte natural, chia e mel.",
@@ -41,14 +41,14 @@ export default {
         },
         {
           nome: "LACUP DOCELLA",
-          preco: 14.5,
+          preco: 24.9,
           quantidade: 0,
           descricao:
             "Morango e uva verde em camadas com creme de whey de doce de leite cremoso, finalizado com paçoquita.",
         },
         {
           nome: "LACUP ZENFIT",
-          preco: 14.5,
+          preco: 15.0,
           quantidade: 0,
           descricao:
             "Melão, maçã verde e iogurte natural, finalizado com granola crocante.",
