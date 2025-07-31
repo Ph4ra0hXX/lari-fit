@@ -13,7 +13,7 @@ export default {
       tipos: [
         {
           nome: "LACUP DOLCEMIX",
-          preco: 19.99,
+          preco: 24.99,
           quantidade: 0,
           descricao:
             "Morango fresco com banana, creme de chocolate 60%, finalizado com castanha triturada e hortelã.",
