@@ -34,7 +34,7 @@ export default {
         },
         {
           nome: "LACUP ROSYQUE",
-          preco: 18.99,
+          preco: 21.00,
           quantidade: 0,
           descricao:
             "Creme de whey chocolate branco, pitaya rosa e o kiwi fresco, com um toque delicado de chia para equilibrar.",
