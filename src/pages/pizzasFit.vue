@@ -11,16 +11,16 @@ export default {
 
     const PizzasFit = ref({
       tipos: [
-        { nome: "PIZZA FIT FRANGO", preco: 22.0, quantidade: 0, descricao: "" },
+        { nome: "PIZZA FIT FRANGO", preco: 25.0, quantidade: 0, descricao: "" },
         {
           nome: "PIZZA FRANGO, QUEIJO E OVOS",
-          preco: 24.0,
+          preco: 27.0,
           quantidade: 0,
           descricao: "",
         },
         {
           nome: "PIZZA CARNE DE SOL",
-          preco: 26.0,
+          preco: 30.0,
           quantidade: 0,
           descricao: "",
         },
