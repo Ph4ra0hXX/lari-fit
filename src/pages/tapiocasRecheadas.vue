@@ -30,7 +30,7 @@ export default {
           descricao: "",
         },
         {
-          nome: "FRANGO E REQUEIJÃO LIGHT",
+          nome: "TAPIOCA FRANGO E REQUEIJÃO LIGHT",
           preco: 10.0,
           quantidade: 0,
           descricao: "",
