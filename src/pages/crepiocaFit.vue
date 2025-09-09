@@ -13,19 +13,19 @@ export default {
       tipos: [
         {
           nome: "(Crepioca Fit) - CARNE",
-          preco: 11.0,
+          preco: 12.0,
           quantidade: 0,
           descricao: "",
         },
         {
           nome: "(Crepioca Fit) - FRANGO",
-          preco: 10.0,
+          preco: 11.0,
           quantidade: 0,
           descricao: "",
         },
         {
           nome: "(Crepioca Fit) - CARNE DE SOL",
-          preco: 13.0,
+          preco: 14.0,
           quantidade: 0,
           descricao: "",
         },
