@@ -20,14 +20,14 @@ export default {
         },
         {
           nome: "LACUP LAVITTA",
-          preco: 13.9,
+          preco: 14.9,
           quantidade: 0,
           descricao:
             "Camadas de abacaxi, creme de manga e uva verde formam um lecup leve, vibrante e cheio de frescor natural.",
         },
         {
           nome: "LACUP BANUV",
-          preco: 14.9,
+          preco: 15.9,
           quantidade: 0,
           descricao:
             "Banana, mamão e uva em camadas frescas, finalizado com iogurte natural, chia e mel.",
@@ -48,7 +48,7 @@ export default {
         },
         {
           nome: "LACUP ZENFIT",
-          preco: 15.0,
+          preco: 17.99,
           quantidade: 0,
           descricao:
             "Melão, maçã verde e iogurte natural, finalizado com granola crocante.",
