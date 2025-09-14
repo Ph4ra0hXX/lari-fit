@@ -14,21 +14,21 @@ export default {
       tipos: [
         {
           nome: "SHAKE BANACHI",
-          preco: 11.0,
+          preco: 12.0,
           quantidade: 0,
           descricao:
             "Shake de banana, morango e chia. Fonte de fibras, potássio e ômega-3 vegetal.",
         },
         {
           nome: "SHAKE PITAYA FRESH",
-          preco: 13.0,
+          preco: 14.0,
           quantidade: 0,
           descricao:
             "Pitaya, banana com leite desnatado. Rico em antioxidantes e fibras.",
         },
         {
           nome: "SHAKE AÇAÍ ENERGY PLUS",
-          preco: 14.0,
+          preco: 15.0,
           quantidade: 0,
           descricao:
             "Açaí zero com banana e leite. Fonte natural de energia, antioxidantes e sabor intenso.",
