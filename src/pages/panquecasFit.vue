@@ -14,11 +14,11 @@ export default {
       tipos: [
         {
           nome: "PANQUECA FIT BANANA",
-          preco: 6.0,
+          preco: 7.0,
           quantidade: 0,
           descricao: "",
         },
-        { nome: "PANQUECA FIT MAÇÃ", preco: 7.0, quantidade: 0, descricao: "" },
+        { nome: "PANQUECA FIT MAÇÃ", preco: 8.0, quantidade: 0, descricao: "" },
       ],
     });
 
