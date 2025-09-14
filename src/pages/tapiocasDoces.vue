@@ -13,21 +13,21 @@ export default {
       tipos: [
         {
           nome: "TAPIOCA DE BANANA COM DOCE DE LEITE",
-          preco: 10.0,
+          preco: 11.0,
           quantidade: 0,
           descricao:
             "Pasta de amendoim sabor doce de leite + rodelas de banana",
         },
         {
           nome: "TAPIOCA DE MORANGO COM AVELÃ",
-          preco: 12.0,
+          preco: 13.0,
           quantidade: 0,
           descricao:
             "Pasta de amendoim sabor avelã + rodelas de morango fresco",
         },
         {
           nome: "TAPIOCA DE UVA COM CHOCOLATE BRANCO",
-          preco: 13.0,
+          preco: 14.0,
           quantidade: 0,
           descricao:
             "Pasta de amendoim sabor chocolate branco + rodelas de uva verde",
