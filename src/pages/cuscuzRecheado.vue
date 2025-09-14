@@ -19,25 +19,25 @@ export default {
         },
         {
           nome: "CUSCUZ, CARNE MOÍDA",
-          preco: 12.0,
+          preco: 13.0,
           quantidade: 0,
           descricao: "",
         },
         {
           nome: "CUSCUZ, FRANGO, QUEIJO E REQUEIJÃO LIGHT",
-          preco: 13.5,
-          quantidade: 0,
-          descricao: "",
-        },
-        {
-          nome: "CUSCUZ, CARNE DE SOL COM REQUEIJÃO LIGHT",
           preco: 14.0,
           quantidade: 0,
           descricao: "",
         },
         {
+          nome: "CUSCUZ, CARNE DE SOL COM REQUEIJÃO LIGHT",
+          preco: 16.0,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
           nome: "CUSCUZ, QUEIJO",
-          preco: 10.0,
+          preco: 11.0,
           quantidade: 0,
           descricao: "",
         },
@@ -55,7 +55,7 @@ export default {
         },
         {
           nome: "CUSCUZ, FRANGO, QUEIJO E OVOS",
-          preco: 13.0,
+          preco: 14.0,
           quantidade: 0,
           descricao: "",
         },
