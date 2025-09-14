@@ -31,19 +31,19 @@ export default {
         },
         {
           nome: "TAPIOCA FRANGO E REQUEIJÃO LIGHT",
-          preco: 10.0,
+          preco: 11.0,
           quantidade: 0,
           descricao: "",
         },
         {
           nome: "TAPIOCA DE QUEIJO E OVOS",
-          preco: 9.0,
+          preco: 10.0,
           quantidade: 0,
           descricao: "",
         },
         {
           nome: "TAPIOCA DE QUEIJO E REQUEIJÃO",
-          preco: 9.0,
+          preco: 10.0,
           quantidade: 0,
           descricao: "",
         },
