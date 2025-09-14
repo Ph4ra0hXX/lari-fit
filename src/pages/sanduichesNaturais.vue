@@ -48,13 +48,13 @@ export default {
       tipos: [
         {
           nome: "SANDUICHE NATURAL FRANGO",
-          preco: 11.0,
+          preco: 13.0,
           quantidade: 0,
           descricao: "",
         },
         {
           nome: "SANDUICHE NATURAL ATUM",
-          preco: 13.0,
+          preco: 14.0,
           quantidade: 0,
           descricao: "",
         },
