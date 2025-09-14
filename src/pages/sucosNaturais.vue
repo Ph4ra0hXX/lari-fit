@@ -14,13 +14,13 @@ export default {
       tipos: [
         {
           nome: "SUCO DE LARANJA COM MORANGO",
-          preco: 9.0,
+          preco: 11.0,
           quantidade: 0,
           descricao: "",
         },
         {
           nome: "SUCO DE ABACAXI COM HORTELÃ",
-          preco: 8.0,
+          preco: 9.0,
           quantidade: 0,
           descricao: "",
         },
