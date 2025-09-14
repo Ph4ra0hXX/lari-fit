@@ -14,21 +14,21 @@ export default {
       tipos: [
         {
           nome: "DETOX TROPICAL",
-          preco: 8.0,
+          preco: 11.0,
           quantidade: 0,
           descricao:
             "Abacaxi, couve, maçã verde, limão e gengibre. Limpa, desincha e revitaliza com sabor equilibrado e frescor natural.",
         },
         {
           nome: "DETOX IMUNO+",
-          preco: 8.0,
+          preco: 9.0,
           quantidade: 0,
           descricao:
             "Laranja, acerola e hortelã. Refresca, fortalece a imunidade e ajuda a combater o cansaço. Rico em vitamina C com um toque digestivo e natural.",
         },
         {
           nome: "DETOX ACTIVE RAIZ",
-          preco: 9.0,
+          preco: 11.0,
           quantidade: 0,
           descricao:
             "Cenoura, beterraba, gengibre, couve e limão. Detox potente com raízes e folhas. Aumenta a disposição, fortalece a imunidade e limpa de dentro pra fora.",
