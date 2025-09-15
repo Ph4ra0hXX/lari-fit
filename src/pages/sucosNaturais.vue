@@ -13,32 +13,14 @@ export default {
     const SucosNaturais = ref({
       tipos: [
         {
-          nome: "SUCO DE LARANJA COM MORANGO",
-          preco: 11.0,
+          nome: "CAFÉ SEM AÇÚCAR",
+          preco: 2.0,
           quantidade: 0,
           descricao: "",
         },
         {
-          nome: "SUCO DE ABACAXI COM HORTELÃ",
-          preco: 9.0,
-          quantidade: 0,
-          descricao: "",
-        },
-        {
-          nome: "SUCO DE ACEROLA COM LIMÃO",
-          preco: 8.0,
-          quantidade: 0,
-          descricao: "",
-        },
-        {
-          nome: "COCA ZERO LATA 350ml",
-          preco: 5.0,
-          quantidade: 0,
-          descricao: "",
-        },
-        {
-          nome: "CHOCOLATE QUENTE FIT 240ml",
-          preco: 12.0,
+          nome: "CAFÉ COM ADOÇANTE",
+          preco: 2.5,
           quantidade: 0,
           descricao: "",
         },
@@ -49,14 +31,32 @@ export default {
           descricao: "",
         },
         {
-          nome: "CAFÉ SEM AÇÚCAR",
-          preco: 2.0,
+          nome: "COCA ZERO LATA 350ml",
+          preco: 5.0,
           quantidade: 0,
           descricao: "",
         },
         {
-          nome: "CAFÉ COM ADOÇANTE",
-          preco: 2.5,
+          nome: "SUCO DE ACEROLA COM LIMÃO",
+          preco: 8.0,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
+          nome: "SUCO DE ABACAXI COM HORTELÃ",
+          preco: 9.0,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
+          nome: "SUCO DE LARANJA COM MORANGO",
+          preco: 11.0,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
+          nome: "CHOCOLATE QUENTE FIT 240ml",
+          preco: 12.0,
           quantidade: 0,
           descricao: "",
         },

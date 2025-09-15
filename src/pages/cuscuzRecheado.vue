@@ -12,7 +12,25 @@ export default {
     const CuscuzRecheado = ref({
       tipos: [
         {
+          nome: "CUSCUZ, OVOS",
+          preco: 9.0,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
+          nome: "CUSCUZ, REQUEIJÃO LIGHT",
+          preco: 10.0,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
           nome: "CUSCUZ, QUEIJO E OVOS",
+          preco: 11.0,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
+          nome: "CUSCUZ, QUEIJO",
           preco: 11.0,
           quantidade: 0,
           descricao: "",
@@ -30,32 +48,14 @@ export default {
           descricao: "",
         },
         {
-          nome: "CUSCUZ, CARNE DE SOL COM REQUEIJÃO LIGHT",
-          preco: 16.0,
-          quantidade: 0,
-          descricao: "",
-        },
-        {
-          nome: "CUSCUZ, QUEIJO",
-          preco: 11.0,
-          quantidade: 0,
-          descricao: "",
-        },
-        {
-          nome: "CUSCUZ, OVOS",
-          preco: 9.0,
-          quantidade: 0,
-          descricao: "",
-        },
-        {
-          nome: "CUSCUZ, REQUEIJÃO LIGHT",
-          preco: 10.0,
-          quantidade: 0,
-          descricao: "",
-        },
-        {
           nome: "CUSCUZ, FRANGO, QUEIJO E OVOS",
           preco: 14.0,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
+          nome: "CUSCUZ, CARNE DE SOL COM REQUEIJÃO LIGHT",
+          preco: 16.0,
           quantidade: 0,
           descricao: "",
         },

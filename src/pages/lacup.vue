@@ -12,13 +12,6 @@ export default {
     const Lacup = ref({
       tipos: [
         {
-          nome: "LACUP DOLCEMIX",
-          preco: 24.99,
-          quantidade: 0,
-          descricao:
-            "Morango fresco com banana, creme de chocolate 60%, finalizado com castanha triturada e hortelã.",
-        },
-        {
           nome: "LACUP LAVITTA",
           preco: 14.9,
           quantidade: 0,
@@ -31,6 +24,13 @@ export default {
           quantidade: 0,
           descricao:
             "Banana, mamão e uva em camadas frescas, finalizado com iogurte natural, chia e mel.",
+        },
+        {
+          nome: "LACUP ZENFIT",
+          preco: 17.99,
+          quantidade: 0,
+          descricao:
+            "Melão, maçã verde e iogurte natural, finalizado com granola crocante.",
         },
         {
           nome: "LACUP ROSYQUE",
@@ -47,11 +47,11 @@ export default {
             "Morango e uva verde em camadas com creme de whey de doce de leite cremoso, finalizado com paçoquita.",
         },
         {
-          nome: "LACUP ZENFIT",
-          preco: 17.99,
+          nome: "LACUP DOLCEMIX",
+          preco: 24.99,
           quantidade: 0,
           descricao:
-            "Melão, maçã verde e iogurte natural, finalizado com granola crocante.",
+            "Morango fresco com banana, creme de chocolate 60%, finalizado com castanha triturada e hortelã.",
         },
       ],
     });
