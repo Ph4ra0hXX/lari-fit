@@ -234,7 +234,7 @@ export const produtosStore = defineStore("produto", {
         },
         {
           id: 14,
-          nome: "SUCOS NATURAIS",
+          nome: "SUCUS NATURAIS E OUTROS",
           img: "7.webp",
           descricao: "Sucos naturais variados.",
           url: "/sucos-naturais",
@@ -425,7 +425,7 @@ export const produtosStore2 = defineStore("produto2", {
         },
         {
           id: 14,
-          nome: "SUCOS NATURAIS",
+          nome: "SUCUS NATURAIS E OUTROS",
           img: "7.webp",
           descricao: "Sucos naturais variados.",
           url: "/sucos-naturais",

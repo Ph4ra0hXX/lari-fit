@@ -30,6 +30,36 @@ export default {
           quantidade: 0,
           descricao: "",
         },
+        {
+          nome: "COCA ZERO LATA 350ml",
+          preco: 5.0,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
+          nome: "CHOCOLATE QUENTE FIT 240ml",
+          preco: 12.0,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
+          nome: "CAPPUCINO FIT 120ml",
+          preco: 4.0,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
+          nome: "CAFÉ SEM AÇÚCAR",
+          preco: 2.0,
+          quantidade: 0,
+          descricao: "",
+        },
+        {
+          nome: "CAFÉ COM ADOÇANTE",
+          preco: 2.5,
+          quantidade: 0,
+          descricao: "",
+        },
       ],
     });
 
@@ -62,7 +92,7 @@ export default {
     <div id="listar">
       <div class="dotted-line">
         <hr />
-        <span id="textDividers">Sucos Naturais</span>
+        <span id="textDividers">Sucos Naturais e Outros</span>
         <hr />
       </div>
       <div v-for="(item, index) in SucosNaturais.tipos" :key="item">
